@@ -27,8 +27,12 @@ Temporary Items
 
 # Repo specific files
 Notes
+archival/*
+Screenshots/*
 installers/*.iso
 harddrives/*.img
 cdrom/*.iso
 floppy/*.fd
 push.sh
+qemu-monitor-socket
+build/*
